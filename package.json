@@ -1,0 +1,20 @@
+{
+  "name": "libpseudo360",
+  "version": "1.0.0",
+  "description": "360 gallery in plain css and javascript",
+  "main": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Gustaw Rydzak",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "globals": "^16.0.0",
+    "gulp": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-terser": "^2.1.0",
+    "terser": "^5.39.0"
+  }
+}
