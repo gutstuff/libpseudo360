@@ -4,7 +4,7 @@
   "description": "360 gallery in plain css and javascript",
   "main": "",
   "scripts": {
-    "test": "mocha"
+    "test": ""
   },
   "author": "Gustaw Rydzak",
   "license": "BSD-3-Clause",
