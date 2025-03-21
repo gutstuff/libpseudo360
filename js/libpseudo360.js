@@ -188,7 +188,6 @@ function LibPseudo360(options) {
         }
 
         this.imgArr.forEach(function (element) {
-            console.log(element);
             if (
                 width > 0
                 && width >= height
